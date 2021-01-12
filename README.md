@@ -1,2 +1,2 @@
 # Algo-and-UVa
-Important Algorithms and UVa problems
+Algorithms and UVa problems
