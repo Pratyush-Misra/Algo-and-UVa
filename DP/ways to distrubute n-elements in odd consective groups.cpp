@@ -49,7 +49,7 @@ const int MOD1 = 1e9+7;
 const int MOD2 = 998244353;
 
 // DP based apporoach O(N^2) time and O(N) states
-// sliding window optimisation will reduce to O(N) time and space both
+// sliding window optimisation or Odd/Even sum's optimisation will reduce to O(N) time and space both
 void solve(){
 	int n;	cin>>n;	vt<int> v(n);//	FOR(n)	cin>>v[i];	
 	auto ans = [&]{
